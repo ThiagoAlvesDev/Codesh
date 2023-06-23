@@ -1,4 +1,4 @@
-## Api de para manipulação de dados de produtos
+## Api para manipulação de dados de produtos
 <hr>
 
 Foi proposto um teste de construção de api junto a codesh, após muita pesquisar eu decide admitir que não tinha os conhecimentos necessários para aplicar todo o desenvolvimento do projeito. Mas queria fazer algo. Então decide aplicar meus conhecimentos e com base na interpretação da proposta, realizei este projeto. O documento original fornecido pode ser acessado [aqui](/Documentation/products-parser-20230105/README.md)
