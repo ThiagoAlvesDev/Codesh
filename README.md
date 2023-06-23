@@ -15,4 +15,4 @@ Após configuração o projeto estará pronto para rodar. Em um terminal de sua 
         dotnet watch run
 
 
-<em> Pude aprender muito, definir meus limites e so tenho a agradecer, sempre tento ser 1% a mais que ontem e continuarei em frente.</em>
+<em>  Aprendi a definir meus limites e so tenho a agradecer, sempre tento ser 1% a mais que ontem e continuarei em frente.</em>
